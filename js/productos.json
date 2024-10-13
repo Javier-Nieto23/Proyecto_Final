@@ -1,0 +1,145 @@
+[
+    {
+        "id": "videojuego-01",
+        "titulo": "Dragonball Budokai Tenkaichi 3",
+        "imagen": "./img/Peleas/01.jpg",
+        "categoria": {
+            "nombre": "Peleas",
+            "id": "peleas"
+        },
+        "precio": 700,
+        "stock": 15
+    },
+    {
+        "id": "videojuego-02",
+        "titulo": "The Legend of Zelda: Breath of the Wild",
+        "imagen": "./img/Aventura/01.jpg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 1200,
+        "stock": 10
+    },
+    {
+        "id": "videojuego-03",
+        "titulo": "Super Mario Odyssey",
+        "imagen": "./img/Aventura/03.jpg",
+        "categoria": {
+            "nombre": "Plataformas",
+            "id": "plataformas"
+        },
+        "precio": 1200,
+        "stock": 8
+    },
+    {
+        "id": "videojuego-04",
+        "titulo": "Call of Duty: Modern Warfare",
+        "imagen": "./img/videojuegos/04.jpg",
+        "categoria": {
+            "nombre": "Disparos",
+            "id": "disparos"
+        },
+        "precio": 750,
+        "stock": 20
+    },
+    {
+        "id": "videojuego-05",
+        "titulo": "FIFA 23",
+        "imagen": "./img/videojuegos/05.jpg",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 1099,
+        "stock": 12
+    },
+    {
+        "id": "videojuego-06",
+        "titulo": "The Witcher 3: Wild Hunt",
+        "imagen": "./img/videojuegos/06.jpg",
+        "categoria": {
+            "nombre": "RPG",
+            "id": "rpg"
+        },
+        "precio": 349,
+        "stock": 5
+    },
+    {
+        "id": "videojuego-07",
+        "titulo": "Dark Souls III",
+        "imagen": "./img/videojuegos/07.jpg",
+        "categoria": {
+            "nombre": "Acción",
+            "id": "accion"
+        },
+        "precio": 819,
+        "stock": 7
+    },
+    {
+        "id": "videojuego-08",
+        "titulo": "Minecraft",
+        "imagen": "./img/videojuegos/08.jpg",
+        "categoria": {
+            "nombre": "Construcción",
+            "id": "construccion"
+        },
+        "precio": 612,
+        "stock": 25
+    },
+    {
+        "id": "videojuego-09",
+        "titulo": "Fortnite",
+        "imagen": "./img/videojuegos/09.jpg",
+        "categoria": {
+            "nombre": "Battle Royale",
+            "id": "battle-royale"
+        },
+        "precio": 0,
+        "stock": 30
+    },
+    {
+        "id": "videojuego-10",
+        "titulo": "League of Legends",
+        "imagen": "./img/videojuegos/10.jpg",
+        "categoria": {
+            "nombre": "MOBA",
+            "id": "moba"
+        },
+        "precio": 0,
+        "stock": 18
+    },
+    {
+        "id": "videojuego-11",
+        "titulo": "Cuphead",
+        "imagen": "./img/videojuegos/10.jpg",
+        "categoria": {
+            "nombre": "Aventura",
+            "id": "aventura"
+        },
+        "precio": 179,
+        "stock": 9
+    },
+    {
+        "id": "videojuego-12",
+        "titulo": "New Super Mario Bros.",
+        "imagen": "./img/videojuegos/10.jpg",
+        "categoria": {
+            "nombre": "Plataformas",
+            "id": "plataformas"
+        },
+        "precio": 920,
+        "stock": 6
+    },
+    {
+        "id": "videojuego-13",
+        "titulo": "Celeste",
+        "imagen": "./img/videojuegos/11.jpg",
+        "categoria": {
+            "nombre": "Plataformas",
+            "id": "plataformas"
+        },
+        "precio": 227,
+        "stock": 10
+    }
+]
